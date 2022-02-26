@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The reasons presented by the Dissenting Brethren against certain propositions concerning presbyteriall government and the proofs of them voted by the Assembly of Divines, sitting by authority of Parliament, at Westminster : together with the Answer of the Assembly of Divines to those reasons of dissent.</title>
+            <author>Westminster Assembly</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70969</idno>
+            <idno type="STC">Wing R581</idno>
+            <idno type="STC">Wing P295</idno>
+            <idno type="STC">ESTC R5818</idno>
+            <idno type="EEBO-CITATION">13213815</idno>
+            <idno type="OCLC">ocm 13213815</idno>
+            <idno type="VID">98518</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70969)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98518)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 436:4 or 432:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The reasons presented by the Dissenting Brethren against certain propositions concerning presbyteriall government and the proofs of them voted by the Assembly of Divines, sitting by authority of Parliament, at Westminster : together with the Answer of the Assembly of Divines to those reasons of dissent.</title>
+                  <author>Westminster Assembly</author>
+                  <author>Westminster Assembly (1643-1652). Answer of the Assembly of Divines to the reasons of the Dissenting Brethren.</author>
+                  <author>Westminster Assembly (1643-1652). Papers given in to the Honorable Committee of Lords and Commons.</author>
+                  <author>Westminster Assembly (1643-1652). Dissenting Brethren. Papers and answers of the Dissenting Brethren.</author>
+               </titleStmt>
+               <extent>[8], 40, 211, 123 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.R. and E.M. for Humphrey Harward, and are to be sold at his shop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The answer of the Assembly of Divines", "Reasons of the Dissenting Brethren", and "Papers given in to the Honorable Committee of Lords and Commons" have special title pages and separate pagination.</note>
+                  <note>Reissued as: The grand debate concerning presbitery. 1652.</note>
+                  <note>Reproduction of original in Cambridge University Library and Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterian Church --  England --  Government.</term>
+               <term>Congregational churches --  Government.</term>
+               <term>Presbyterianism --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98518:1"/>
+            <!-- PDF PAGE 43 -->
+            <pb facs="tcp:98518:1"/>
+            <!-- PDF PAGE 43 -->
+            <p>PAPERS Given in to the HONORABLE COMMITTEE OF LORDS and COMMONS And Aſſembly of <hi>Divines</hi> with the Commiſſioners of <hi>Scotland,</hi> FOR ACCOMMODATION. 1644.</p>
+            <p>By a SUB-COMMITTEE of <hi>Divines</hi> of the Aſſembly and <hi>Diſſenting Brethren.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed <hi>Anno Dom.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="order">
+            <pb facs="tcp:98518:2"/>
+            <!-- PDF PAGE 44 -->
+            <pb n="1" facs="tcp:98518:2"/>
+            <!-- PDF PAGE 44 -->
+            <head>An Order of the Houſe of Commons for A Committee of Accommodation.</head>
+            <head type="sub">Septemb. 13. 1644.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the Committee of Lords and Commons appointed to treat with the Commiſſi<g ref="char:EOLhyphen"/>oners of <hi>Scotland,</hi> and the Committee of the Aſſembly, Do take into conſideration the differences of the opinions of the mem<g ref="char:EOLhyphen"/>bers of the Aſſembly in point of Church-government, and to indeavour an <hi>union</hi> if it be poſſible: And in caſe that cannot be done, to indeavour the <hi>finding out ſome way how far tender conſciences,</hi> who cannot in all things ſubmit to the ſame Rule, which ſhall be eſta<g ref="char:EOLhyphen"/>bliſhed, may be borne with according to the Word, and as may ſtand with the publike peace; That ſo the proceedings of the Aſſembly may not be ſo much re<g ref="char:EOLhyphen"/>tarded.</p>
+         </div>
+         <div type="text">
+            <pb n="2" facs="tcp:98518:3"/>
+            <!-- PDF PAGE 45 -->
+            <head>This honourable Committee met according to the Order, <hi>Septemb.</hi> 20. following</head>
+            <p>THe appointment of the Order Being, <hi>That the diffe<g ref="char:EOLhyphen"/>rences of opinions,</hi> of the <hi>members of the Aſſembly, in point of Church Government be taken into conſideration.</hi> The honoura<g ref="char:EOLhyphen"/>ble <hi>Committee</hi> appointed a SUB-COMMITTEE of <hi>ſix</hi> of the Members of the Aſſembly. M<hi rend="sup">r</hi>, <hi>Marſhall,</hi> M<hi rend="sup">r</hi>. <hi>Hearle,</hi> Maſter <hi>Vines,</hi> D<hi rend="sup">r</hi>. <hi>Temple,</hi> M<hi rend="sup">r</hi>. <hi>Goodwin,</hi> and M<hi rend="sup">r</hi>. <hi>Nye,</hi> (two of the diſ<g ref="char:EOLhyphen"/>ſenting brethren) To conſider of <hi>the differences of opinions in the Aſſembly, in point of Church-Government:</hi> And to bring in what might be matter for that grand <hi>Committee</hi> to conſi<g ref="char:EOLhyphen"/>der of.</p>
+            <p>In purſuance of this, the ſaid <hi>ſub-Committee</hi> met, who ſti<g ref="char:EOLhyphen"/>led themſelves the <hi>ſub-Committee of</hi> AGREEMENTS. And after the Preface declaring their mutuall confidence to <hi>agree in one Confeſſion of Faith,</hi> and in <hi>One Directory of publique wor<g ref="char:EOLhyphen"/>ſhip,</hi> &amp;c. They prepared ſeverall Propoſitions, concerning the Government of <hi>particular Congregations,</hi> and Ordination, &amp;c. Declaring how farre in practicall principles they did agree therein, together with the different practices, which each according to their principles, deſired.</p>
+            <p>
+               <hi>October</hi> 11. 1644. The honourable <hi>Committee</hi> met againe, At which the <hi>ſub-Committee</hi> preſented the Propoſitions they had prepared, declaring they had further to bring in concer<g ref="char:EOLhyphen"/>ning <hi>Claſſes</hi> and <hi>Synods.</hi> And <hi>what</hi> might be the <hi>way</hi> of ac<g ref="char:EOLhyphen"/>commodation for the <hi>diſſenting brethren to enjoy Congregations amongſt us,</hi> according to their principles. All which (though they had met many dayes) was not as then perfected.</p>
+            <p>Therefore the honourable <hi>Committee</hi> did remit back to the ſaid <hi>ſub-Committee</hi> the Propoſitions then brought in, to be further explained, and as much, as might to be perfected a<g ref="char:EOLhyphen"/>gainſt
+<pb n="3" facs="tcp:98518:3"/>
+               <!-- PDF PAGE 45 -->the next meeting, adjourning <hi>that Committee</hi> untill <hi>Tueſday October</hi> 15.</p>
+            <p>When theſe <hi>Propoſitions</hi> that follow, were brought in by the <hi>ſub-Committee,</hi> as containing both a fuller explication, and the beſt way to accommodate their own and their <hi>brethrens</hi> principles in a practique way (which was the end of that ho<g ref="char:EOLhyphen"/>nourable <hi>Committee</hi>) both for <hi>Congregations,</hi> and <hi>Synods,</hi> and the government thereof.</p>
+            <p>
+               <hi>October</hi> 15. 1644. The honourable Committee of <hi>Lords, Commons, Divines</hi> of the <hi>Aſſembly,</hi> with the <hi>Scotch-Commiſſio<g ref="char:EOLhyphen"/>ners</hi> met. And theſe Propoſitions were read by Maſter <hi>Vines</hi> who was the <hi>Chaire-man</hi> of that <hi>ſub-Committee.</hi>
+            </p>
+            <p>A Vote was paſt in the <hi>Committee</hi> to take them into conſide<g ref="char:EOLhyphen"/>ration. But that debate was not entred upon, becauſe it was the earneſt deſire of ſome that the <hi>Rule</hi> ſhould firſt be made compleate by the Aſſembly and the Houſes.</p>
+            <p>And there was a <hi>Ceſſation</hi> put upon the <hi>honourable Committee</hi> herein, by the honourable Houſe of Commons untill their further pleaſure.</p>
+            <p>
+               <hi>Let the</hi> Reader take notice, <hi>that in what particu<g ref="char:EOLhyphen"/>làrs the</hi> diſſenting brethren <hi>do differ from the Propoſitions of the reſt of the</hi> SUB-COM<g ref="char:EOLhyphen"/>MITTEE, <hi>or do expreſſe their deſires a part from them, there is a differing Character put in the Printing of them for the diſcerning thereof, and that in other things wherein they expreſſe not any</hi> difference <hi>or further</hi> expla<g ref="char:EOLhyphen"/>nation, <hi>they</hi> agreed <hi>to them.</hi>
+            </p>
+            <p>The PROPOSITIONS were as followeth.</p>
+         </div>
+         <div type="propositions">
+            <pb n="4" facs="tcp:98518:4"/>
+            <!-- PDF PAGE 46 -->
+            <head>
+               <hi>At the</hi> Sub-Committee of Agreements.</head>
+            <p>IN confidence that we ſhall jointly agree in one Confeſſion of Faith, and in one Directory of the Publick worſhip of God, with the help of a Preface, we come according to our order to points of Government, and therein do agree as fol<g ref="char:EOLhyphen"/>loweth.</p>
+            <p n="1">1. That a particular congregation having ſuch officers as the word of God holds out, both for preaching and go<g ref="char:EOLhyphen"/>verning, is a Church that hath power in all Eccleſiaſticall affairs, which do only concern it ſelfe.</p>
+            <p n="2">2. That theſe forementioned officers are to be ſo many in numb,er in every ſuch congregation, as that three or two at the leaſt may agree together in every act of government. By two at the leaſt we mean preaching or governing offi<g ref="char:EOLhyphen"/>cers. But ſome of the Committee do hold that a preaching Presbyter ſhould concurre in the ſentence of excommuni<g ref="char:EOLhyphen"/>cation and ſuſpenſion.</p>
+            <p n="3">3. That theſe officers have power in thoſe things which are voted by the Aſſembly to be due unto them, and in ſuſ<g ref="char:EOLhyphen"/>penſion and excommunication: Some of the Committee meaning that the major part of the officers have power to do it, the congregation not oppoſing it, in which caſe of oppoſition they hold fit that the officers do ſuſpend the act. <hi>Others of the Committee ſaying that the Major part of the Offi<g ref="char:EOLhyphen"/>cers have power to do it, if the Major part of the Brethren do conſent unto it by their Votes: ſo as the negative lies in the major part, either of the Officers or Brethren.</hi>
+            </p>
+            <p>And as for <hi>Ordination,</hi> we all ho<g ref="char:cmbAbbrStroke">̄</g>ld, that where there are two preaching Presbyters at leaſt, ſuch a Presbytery
+<pb n="5" facs="tcp:98518:4"/>
+               <!-- PDF PAGE 46 -->may ordaine their own Elders. <hi>But ſome of the Committee do further ſay that where there are two ruling Elders at leaſt, they have power of ordaining Elders for that congregation, and in caſe there be no Elders</hi> (<hi>as at the firſt</hi> in Eccleſia conſtitu<g ref="char:EOLhyphen"/>enda) <hi>then the choice of Elders, by the people, with approbation of the neighbouring Miniſters with faſting and prayer, may ſuffice.</hi>
+            </p>
+            <p n="4">4. That the Elders of the congregation ſhall adviſe with the Claſſis in all caſes of Excommunication before they pro<g ref="char:EOLhyphen"/>ceed to it, and the Claſſis hath power to heare and deter<g ref="char:EOLhyphen"/>mine: yet ſo, as the power of the Congregation be not concluded thereby in matter of Excommunication. <hi>But ſome of the Committee do ſay that in whatſoever caſe they find difficult either in excommunication or in any other adminiſtra<g ref="char:EOLhyphen"/>tion of their power, they ſhall firſt adviſe with ſome company or Claſſis of neighbour Miniſters, as at the end of the foure follow<g ref="char:EOLhyphen"/>ing Propoſitions afterwards.</hi>
+            </p>
+            <p n="5">5. For the <hi>aſſociating of Churches,</hi> let there be in every County of this Kingdome, a certain number of ſelect, god<g ref="char:EOLhyphen"/>ly and able Miniſters of the word, within that County, to he are and determine the cauſes and differences in every congregation within the ſame, and let there be a certain number of ſelect Church-governours aſſiſtant unto them: the firſt choyce of theſe to be made by the Parliament in ſuch a way as they ſhall determine, and ſuch number to have power of election from time to time of any Miniſter or Church-governour into any place among them, that is void by death or otherwiſe.</p>
+            <p n="6">6. The Miniſters and Ruling-governors, of every con<g ref="char:EOLhyphen"/>gregation within that County ſo aſſociated, ſhall have pow<g ref="char:EOLhyphen"/>er to debate and vote in that meeting from time to time in ſuch caſes as pertain to that particular congregation, except ſuch of them as are complained of, or are parties in que<g ref="char:EOLhyphen"/>ſtion.</p>
+            <p n="7">7. A certain number of the aforeſaid Miniſters, and
+<pb n="6" facs="tcp:98518:5"/>
+               <!-- PDF PAGE 47 -->Ruling-governours as do dwell near together, in the ſame Deanery or diviſion of that County, and who may with conveniency more frequently meet together, ſhall have power to heare and determine the cauſes and differences within the ſeverall congregations of that precinct.</p>
+            <p n="8">8. Let Nationall Aſſemblies of Miniſters and others, be choſen from time to time, according as ſhal be appoin<g ref="char:EOLhyphen"/>ted by the Parliament, as the neceſſity of the Churches af<g ref="char:EOLhyphen"/>fairs ſhall require.</p>
+            <p>To the fifth, ſixth, ſeventh and eighth, the whole Com<g ref="char:EOLhyphen"/>mittee doth aſcent; <hi>onely ſome of them doe deſire that the ef<g ref="char:EOLhyphen"/>fect of that which hereafter followeth may for explanation ſake be inſerted.</hi> viz. <hi>That the Elders and Brethren of each Congre<g ref="char:EOLhyphen"/>gation in caſe they find any thing too hard for themſelves or have any controverſie among themſelves, may have liberty to adviſe with any of thoſe ſelect Elders, and others in the Province jointly or apart, or with the Elders of any other Churches, for the determining and compoſing the controverſie or reſolving of that difficulty, and in caſe they cannot be ſatisfied, then to have recourſe alſo to the advice and help of that Claſſis unto which they appertain, to ſolve and determine it.</hi>
+            </p>
+            <p n="9">9 That the members of particular congregations do co<g ref="char:EOLhyphen"/>habit and live together within certain bounds and precincts of a pariſh under preaching and governing Officers: <hi>unto which ſo far as it concerns the meer bounding of congregations ſome of the Committee do deſire that theſe proviſions may be added.</hi>
+            </p>
+            <list>
+               <item>1. <hi>That they may have liberty to dwell in another Pariſh if the conſent of the Miniſter of that other pariſh be procured.</hi>
+               </item>
+               <item>2. <hi>For Countrey villages that the limits be extended to take in from ſome one pariſh immediately adjoyning.</hi>
+               </item>
+            </list>
+            <p>We having weighed our Brethrens Principles, do find no probability of accommodation for them, ordinarily to en<g ref="char:EOLhyphen"/>joy congregations, unleſſe when it ſhall happen in a pariſh
+<pb n="7" facs="tcp:98518:5"/>
+               <!-- PDF PAGE 47 -->that the Miniſter cannot adminiſter the Sacraments to all in the Pariſh, whom poſſibly the neighbour Miniſters or the Claſſis may judge fit to be admitted; ſuch perſons ſhall have power to procure to themſelves the Sacraments, either by the help of a neighbour Miniſter, or ſome other proviſi<g ref="char:EOLhyphen"/>on be made by a proportionable allowance out of the Tythes of the pariſh according to the wiſedome of the State.</p>
+            <div type="part">
+               <head>Whereunto our <hi>Brethren</hi> adde as followeth.</head>
+               <p>
+                  <hi>Or otherwiſe if in a pariſh it happen that there be a conſide<g ref="char:EOLhyphen"/>rable number of ſuch as cannot partake in the ordinances with the Miniſter and people there, they ſhall have liberty to diſpoſe of themſelves as a diſtinct Church, and to chooſe a Miniſter or Mi<g ref="char:EOLhyphen"/>niſters at their own charge to be maintained, to be their Paſtor.</hi>
+               </p>
+               <p>
+                  <hi>If ſuch a liberty ſhall ſeem in the wiſedome of this honoura<g ref="char:EOLhyphen"/>ble Committee to be prejudiciall to the peace of the Church, as not to be permitted, we humbly deſire the</hi> doctrinall principles <hi>wherein we differ about Church-government may be taken into ſerious confideration, and ſome other way of accommodation in practice thought upon, as ſhall ſeem fit to this honourable Com<g ref="char:EOLhyphen"/>mittee.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Concerning Claſſes and Synods.</head>
+               <p n="1">1. At theſe meetings, let them pray, expound ſcripture, reſolve difficult caſes of conſcience and preach the word.</p>
+               <p n="2">2. They may dogmatically declare what the will of Chriſt is in ſuch caſes as are before them; And this judgment of theirs ought to be received with reverence, and obligation,
+<pb n="8" facs="tcp:98518:6"/>
+                  <!-- PDF PAGE 48 -->as from an ordinance of Chriſt. <hi>Some of the Brethren (though aſſenting) yet are bold to adde hereunto, that the judgment of any other, of thoſe Elders in the province, or elſewhere, adviſed with, they doe in like manner looke at as the ordinance of Chriſt, and to have the like obligation in them.</hi>
+               </p>
+               <p n="3">3. If the doctrine or practiſe of any particular congrega<g ref="char:EOLhyphen"/>tion be erroneous, hurtfull or deſtructive to holineſſe or the peace of that or other congregations, they are bound to give account thereof to the Claſſis or Synod. <hi>Some of the Brethren adde to this, That the ground of this obligation to give account to the Claſſis or Synod is their being offended, or their Churches ſcandalized thereat.</hi>
+               </p>
+               <p n="4">4. The Claſſis or Synod may examine, admoniſh, and in caſe of obſtinacy declare againſt that congregation or any particular member in it, as the nature and degree of that offence ſhall require. <hi>Some of the Brethren aſſent to ſuch procee<g ref="char:EOLhyphen"/>dings as towards a Church offending and ſcandalizing of them: but adde, That no ſuch examination, admonition in any Claſſis or Aſſembly be extended to any particular perſon in that Church, but unto the Church it ſelfe, for not putting forth the power that Chriſt hath given them for reforming him.</hi>
+               </p>
+               <p n="5">5. The Claſſis or Synod may judge touching any perſon who deſerves excommunication, and may charge the ſeverall congregationall Presbyteries whom it concernes to do it.</p>
+               <p n="6">6. We conceive that in caſe the particular Elderſhip re<g ref="char:EOLhyphen"/>fuſe to doe their duty, the Claſſis, may and ought not one<g ref="char:EOLhyphen"/>ly to withdraw communion from them, but alſo when need is, exerciſe the ſentence of excommunication themſelves. <hi>Inſtead of this ſixth Propoſition, ſome of the Brethren do inſert this, In caſe the aforeſaid particular Churches and Elderſhips offending ſhall refuſe to ſubmit to this courſe, that then the Claſ<g ref="char:EOLhyphen"/>ſis or Synod are to acquaint their congregations reſpectively, and ſo withdraw from them, denying Church-Communion and fellowſhip with them.</hi>
+               </p>
+               <p n="7">7. In caſe of appeale if it appeare to the Claſſis that the
+<pb n="9" facs="tcp:98518:6"/>
+                  <!-- PDF PAGE 48 -->ſentence was unjuſt, they may judge that the particular Presbytery ought to reverſe it: and in caſe they obſtinately refuſe to do it, the Claſſis may reverſe it. <hi>Others of the Brethren only ſay that they are to proceed as in the former Ar<g ref="char:EOLhyphen"/>ticle.</hi>
+               </p>
+               <p n="8">8. The Claſſis or Synod have power to ordaine Miniſters for ſuch congregations as have not a ſufficient presbytery in them, and let all congregations aſſociated, firſt adviſe with the Claſſis, and take their aſſiſtance before they ordain a Miniſter. <hi>Some of the Brethren do referre them<g ref="char:EOLhyphen"/>ſelves for this, to the last clauſe in the third Propoſition delive<g ref="char:EOLhyphen"/>red in.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
